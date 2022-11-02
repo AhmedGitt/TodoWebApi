@@ -10,7 +10,7 @@ using todolist_api_sub.Models;
 
 namespace todolist_api_sub.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/todoitems")]
     [ApiController]
     public class TodoItems : ControllerBase
     {

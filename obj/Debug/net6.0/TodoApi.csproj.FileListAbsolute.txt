@@ -5,6 +5,11 @@
 /Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/TodoApi.runtimeconfig.json
 /Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/TodoApi.dll
 /Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/TodoApi.pdb
+/Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
 /Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
 /Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -25,8 +30,3 @@
 /Users/s2201198/Projects/TodoApi/TodoApi/obj/Debug/net6.0/TodoApi.pdb
 /Users/s2201198/Projects/TodoApi/TodoApi/obj/Debug/net6.0/TodoApi.genruntimeconfig.cache
 /Users/s2201198/Projects/TodoApi/TodoApi/obj/Debug/net6.0/ref/TodoApi.dll
-/Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
-/Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-/Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
-/Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
-/Users/s2201198/Projects/TodoApi/TodoApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
