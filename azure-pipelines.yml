@@ -19,12 +19,7 @@ steps:
   displayName: 'Run a multi-line script'
 
 - powershell: gci env:* | sort-object name | Format-Table -AutoSize | Out-File $env:BUILD_ARTIFACTSTAGINGDIRECTORY/environment-variables.txt
-- task: AzureRmWebAppDeployment@4
-  inputs:
-    ConnectionType: 'AzureRM'
-    appType: 'webApp'
-    WebAppName: 
-    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
+
 - task: PublishBuildArtifacts@1
   inputs:
     pathToPublish: '$(Build.ArtifactStagingDirectory)'
